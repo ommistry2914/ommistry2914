@@ -1,9 +1,10 @@
 
 ## Hello 👋, I'm Om Mistri
 
-**A passionate MERN Stack and Java Developer**
+<h3 align="center">Innovative MERN Stack Developer | Tech Explorer</h3>
 
-🌱 I’m currently learning SpringBoot, Artificial Intelligence and Machine Learning.
+
+🌱 I’m currently learning MERN stack, Spring Boot.
 
 💬 Ask me about MERN | Java | Web Development
 
@@ -22,7 +23,8 @@
 
 ## Statistics
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ommistry2914&show_icons=true&theme=transparent)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ommistry2914&theme=default)](https://git.io/streak-stats)
+
+
