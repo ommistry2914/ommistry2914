@@ -1,10 +1,10 @@
 
 ## Hello 👋, I'm Om Mistri
 
-<h3 align="center">Innovative MERN Stack Developer | Tech Explorer</h3>
+<h3 align="center">Innovative Full Stack Developer | Tech Explorer</h3>
 
 
-🌱 I’m currently learning MERN stack, Spring Boot.
+🌱 I’m currently learning Full stack, Spring Boot.
 
 💬 Ask me about MERN | Java | Web Development
 
