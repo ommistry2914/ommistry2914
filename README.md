@@ -4,20 +4,22 @@
 <h3 align="center">Innovative Full Stack Developer | Tech Explorer</h3>
 
 
-🌱 I’m currently learning Full stack, Spring Boot.
+Passionate about designing and developing efficient, scalable, and user-focused applications.
 
-💬 Ask me about MERN | Java | Web Development
+Currently enhancing my expertise in **Full Stack Development** and **Java**. 
 
-📫 Reach me at ommistry2914@gmail.com
+Ask me about **Java | MERN | Web Development** 
+
 ## 🔗 Connect with me
 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ommistry2914@gmail.com) 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/om-mistri/)
 
 
 
 
 ##  Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,py,nodejs,express,react,mongodb,mysql,git,github,postman,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,ts,py,nodejs,express,react,mongodb,postgresql,mysql,git,github,postman,firebase,aws)](https://skillicons.dev)
 
 
 
